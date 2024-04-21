@@ -2,7 +2,7 @@
 ![Imagen de Portada](img/Sin-título.jpg)
 
 ## Descripción
-Breve descripción del proyecto, objetivos y funcionalidades principales.
+En esta pagina subire los proyectos que necesite para el grado de Desarrollo de Aplicaciones Multiplataformas
 
 ## Características
 - Característica 1
