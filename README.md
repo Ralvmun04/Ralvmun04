@@ -26,7 +26,7 @@ Y me especializo en:
 
 ## 💡 Un poco más sobre mí
 
-Desde pequeño me ha atraído la tecnología, eso me ha llevado a formarme profesionaalmente en **programación** y **ciberseguridad**. 
+Desde pequeño me ha atraído la tecnología, eso me ha llevado a formarme profesionalmente en **programación** y **ciberseguridad**. 
 - 📜 Certificación oficial DAM  
 - 🇬🇧 Nivel **C1 de inglés**  
 - 🔐 Interés profundo en seguir formándome en **ciberseguridad**
