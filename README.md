@@ -47,15 +47,6 @@ Mi experiencia incluye un periodo de prácticas profesionales donde diseñé e i
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ralvmun04&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ralvmun04&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="48%" />
-</p>
-
----
-
 <p align="center">
   ¡Échale un ojo a mis repositorios y hablemos! 🚀
 </p>
