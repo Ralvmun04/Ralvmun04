@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wavy&color=0:0d1117,100:161b22&height=180&section=header&text=¡Hola,%20Mundo!%20&fontSize=35&fontColor=58a6ff&fontAlignY=50&desc=Desarrollador%20Multiplataforma%20&%20Especialista%20en%20Ciberseguridad&descSize=14&descColor=8b949e" alt="Banner" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:0f172a&height=180&section=header&text=Hello,%20World!%20%3E_%&fontSize=35&fontColor=00ff66&fontAlignY=50&desc=Cybersecurity%20Specialist%20&%20Multiplatform%20Developer&descSize=14&descColor=38bdf8" alt="Cyberpunk Banner" width="100%">
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/DAM-Graduado-blue.svg?style=for-the-badge&logo=codecademy&logoColor=white" alt="DAM">
   <img src="https://img.shields.io/badge/Ciberseguridad-Especialización-red.svg?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Cybersecurity">
   <img src="https://img.shields.io/badge/Inglés-C1-green.svg?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English">
-  <img src="https://img.shields.io/badge/Status-Buscando_Nuevos_Retos-orange.svg?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Status-Locked_In-orange.svg?style=for-the-badge" alt="Status">
 </p>
 
 ---
@@ -50,8 +50,8 @@ Mi experiencia incluye un periodo de prácticas profesionales donde diseñé e i
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ralvmun04&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ralvmun04&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ralvmun04&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ralvmun04&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="48%" />
 </p>
 
 ---
