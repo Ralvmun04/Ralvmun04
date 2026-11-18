@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/header.svg" alt="Mi banner" width="100%">
+  <img src="/header1.svg" alt="Mi banner" width="100%">
 </p>
 
 <p align="center">
