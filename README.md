@@ -52,7 +52,7 @@ Mi experiencia incluye un periodo de prácticas profesionales donde diseñé e i
 ---
 
 <p align="center">
-  ¡Échale un ojo a mis repositorios y hablemos! 🚀
+  ¡Échale un ojo a mis repos! 🚀
 </p>
 
 <p align="center">
